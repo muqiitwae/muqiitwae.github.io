@@ -1,0 +1,47 @@
+project:
+  type: website
+
+website:
+  favicon: logo.png
+  title: "Muqiit Saputra"
+  search: 
+    location: navbar
+    type: overlay
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: resume.qmd
+        text: Resume
+      - href: articles.qmd
+        text: Articles
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/muqiitwae/
+      - icon: instagram
+        href: https://instagram.com/muqiitsaputra/
+      - icon: linkedin
+        href: https://linkedin.com/muqiitsaputra/
+      - icon: envelope
+        href: mailto:muqiit123@gmail.com
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: [cosmo, theme_dark_custom.scss]
+    css: styles.css
+    code-link: true
+
+editor: visual
+page-footer:
+    center: |
+      [Contact Me](mailto:muqiit123@gmail.com)
+    left: |
+      Made with [Quarto](https://quarto.org/)
+    right: |
+      [Github Code Repo](https://github.com/muqiitwae)
+    background: "#2780e3"
+
