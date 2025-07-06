@@ -70,6 +70,10 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="styles.css">
+<meta property="og:title" content="About – Muqiit Saputra">
+<meta property="og:description" content="Berbagi seputar Data Science, Machine Learning, Remote Sensing, dan Teknologi Terkini">
+<meta property="og:image" content="https://muqiitwae.github.io/profile.jpg">
+<meta property="og:site_name" content="Muqiit Saputra">
 </head>
 
 <body class="nav-fixed fullcontent">
@@ -407,7 +411,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/muqiitwae\.github\.io");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

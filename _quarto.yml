@@ -5,6 +5,10 @@ project:
 website:
   favicon: logo.png
   title: "Muqiit Saputra"
+  description: "Berbagi seputar Data Science, Machine Learning, Remote Sensing, dan Teknologi Terkini"
+  site-url: https://muqiitwae.github.io
+  open-graph: true
+  image: /images/preview.png
   search: 
     location: navbar
     type: overlay
