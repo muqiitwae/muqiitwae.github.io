@@ -5,8 +5,6 @@ project:
 website:
   favicon: logo.png
   title: "Muqiit Saputra"
-  description: "Berbagi seputar Data Science, Machine Learning, Remote Sensing, dan Teknologi Terkini"
-  site-url: https://muqiitwae.github.io
   open-graph: true
   image: /images/preview.png
   search: 
@@ -18,20 +16,30 @@ website:
         text: Home
       - href: projects.qmd
         text: Projects
-      - href: resume.qmd
-        text: Resume
+      - href: blog.qmd
+        text: Blog
       - href: articles.qmd
         text: Articles
+      - href: resume.qmd
+        text: Resume
     right:
-      - about.qmd
       - icon: github
         href: https://github.com/muqiitwae/
       - icon: instagram
         href: https://instagram.com/muqiitsaputra/
       - icon: linkedin
-        href: https://linkedin.com/muqiitsaputra/
+        href: https://linkedin.com/in/muqiitsaputra/
       - icon: envelope
         href: mailto:muqiit123@gmail.com
+  page-footer:
+    center: |
+      [Contact Me](mailto:muqiit123@gmail.com)
+    left: |
+      Made with [Quarto](https://quarto.org/)
+    right: |
+      [Github Code Repo](https://github.com/muqiitwae)
+    #background: "#2780e3"
+  site-url: "https://muqiitwae.github.io"
 format:
   html:
     theme:
@@ -41,12 +49,5 @@ format:
     code-link: true
 
 editor: visual
-page-footer:
-    center: |
-      [Contact Me](mailto:muqiit123@gmail.com)
-    left: |
-      Made with [Quarto](https://quarto.org/)
-    right: |
-      [Github Code Repo](https://github.com/muqiitwae)
-    background: "#2780e3"
+
 

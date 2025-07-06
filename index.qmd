@@ -1,12 +1,26 @@
 ---
-title: "Welcome to My Blog"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+title: "Muqiit Saputra"
+image: profile.jpg
+description-meta: Data Scientist Portfolio
+about:
+  template: trestles
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/muqiitsaputra/
+    - icon: instagram
+      text: Instagram
+      href: https://instagram.com/muqiitsaputra/
+    - icon: github
+      text: Github
+      href: https://github.com/muqiitwae/
+    - icon: envelope
+      text: Contact me
+      href: "mailto:muqiit123@gmail.com"
 ---
+
+**Hello, friends!** 👋
+
+I'm a **Statistician** with a strong passion for **Statistics**, **Machine Learning**, and **Geospatial Big Data Analysis**. I work at **BPS–Statistics Indonesia** in Riau Province, where I explore data-driven solutions and develop tools to support evidence-based decision making. 
+
+I'm especially enthusiastic about **remote sensing**, **environmental monitoring**, and leveraging open geospatial data for impactful research.
