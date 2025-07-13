@@ -1,0 +1,85 @@
+---
+title: "Curriculum Vitae"
+format:
+  html:
+    toc: true
+  pdf:
+    author: Andriansyah Muqiit Wardoyo Saputra
+    pdf-engine: weasyprint
+css: cv.css
+format-links: [pdf]
+---
+
+::: {.print-only .contact-block}
+[muqiitsaputra\@bps.go.id](mailto::muqiit123@gmail.com) ∙ [Github](https://github.com/muqiitwae) ∙ [LinkedIn](https://www.linkedin.com/in/muqiitsaputra) ∙ [Website](https://muqiitwae.github.io/)
+:::
+
+## EDUCATION
+
+**Undergraduate -- Bachelor of Applied Statistics** <br> *Politeknik Statistika STIS* [*Oct 2017 --- Sept 2021*]{.cvdate}
+
+-   Undergraduate thesis entitled *"Eco-environment Vulnerability Index (EVI) di Provinsi Kalimantan Timur 2017 - 2019 dengan Pendekatan Remote Sensing"* \[[See more](https://simpus.stis.ac.id/koleksi/9ad744f2-20ee-4bb4-9c32-122e9cdc6459)\]
+
+## WORK EXPERIENCE
+
+### Statistician
+
+***Full-time, BPS-Statistics of Riau Province*** [Oct 2023 -- Present]{.cvdate}
+
+-   Designed and developed internal web-based applications to support HR management and administrative workflows, including workforce data analysis and staffing evaluations at the Provincial Statistics Office.
+
+-   Automated data processing and reporting systems to improve efficiency and accuracy in monitoring civil service performance and compliance with national regulations.
+
+-   Mentored university students as Statistics Agents, delivering training and guidance to enhance statistical literacy and promote data-driven thinking in academic environments.
+
+***Full-time, BPS-Statistics of Dumai Municipality*** [Jan 2022 -- Sept 2023]{.cvdate}
+
+- Authored official statistical publication on Gross Regional Domestic Product of Dumai Municipality by Expenditure 2018 --- 2022, including data analysis, interpretation, and localized economic insights \[[See more](https://dumaikota.bps.go.id/id/publication/2023/04/28/979445d2317c2e3dd22ab36d/produk-domestik-regional-bruto-kota-dumai-menurut-pengeluaran-2018-2022.html)\].
+
+- Developed a web-based archival application for official correspondence using CodeIgniter 4 to streamline document management and retrieval processes.
+
+- Facilitated statistical literacy and data empowerment through technical assistance and mentoring in the "Desa Cinta Statistik" program in Lubuk Gaung Subdistrict, Sungai Sembilan.
+
+- Designed data-driven infographics and visual content for the Dumai Municipality in Figures 2023 publication \[[See more](https://dumaikota.bps.go.id/id/publication/2023/02/28/42f69212efc474d0a2dc9f19/kota-dumai-dalam-angka-2023.html)\].
+
+## HONORS & AWARDS
+
+[**1st Winner of Statistical Essay Competition**](/images/kes-ugm.jpeg) <br> *Statistics Festival by Gajah Mada University (UGM)* [*April 2021*]{.cvdate}
+
+[**Best Speaker of Scientific Writing Competition**](/images/jamboree-stats.jpeg) <br> *10th Statistics Jamboree Student by Mulawarman University* [*March 2021*]{.cvdate}
+
+[**Finalist of Statistical Essay Competition**](/images/satria-data.jpeg) <br> *SATRIA DATA by Ministry of Education and Culture, RI* [*Oct 2020*]{.cvdate}
+
+## LEADERSHIP EXPERIENCE
+
+**Chief of Knowledge Management Division** <br> *Data Science Enthusiast (DESCENT) POLSTAT STIS* [*2020 --- 2021*]{.cvdate}
+
+**Head of Data Analytics Division** <br> *Big Data Research Field Study Pratices (PKL) POLSTAT STIS* [*2019 --- 2020*]{.cvdate}
+
+## PUBLICATIONS
+[**Gross Regional Domestic Product of Dumai Municipality by Expenditure 2018 --- 2022**](https://dumaikota.bps.go.id/id/publication/2023/04/28/979445d2317c2e3dd22ab36d/produk-domestik-regional-bruto-kota-dumai-menurut-pengeluaran-2018-2022.html) <br> *BPS-Statistics of Dumai Municipality* [*28 April 2023*]{.cvdate}
+
+[**Eco-environment Vulnerability Assessment using Remote Sensing Approach in East Kalimantan, Indonesia**](https://doi.org/10.1016/j.rsase.2022.100791) <br> *Journal of Remote Sensing Applications: Society and Environment* [*August 2022*]{.cvdate}
+
+[**Implementation of Ensemble Techniques for Diarrhea Cases Classification of Under-Five Children in Indonesia**](https://doi.org/10.33480/jitk.v6i2.1935) <br> *Journal of Computer Science and Technology* [*Feb 2021*]{.cvdate}
+
+## COURSES IN DATA SCIENCE
+
+[**Principles of Reproducible Analytical Pipelines for Official Statistics**](/files/rap-unsiap.pdf) <br> *UN SIAP* [*17 Feb --- 14 Mar 2025*]{.cvdate}
+
+[**Machine Learning for Data Scientist (R Programming)**](/files/digitalent.pdf) <br> *Digital Talent Scholarship by KOMINFO* [*12 Feb --- 30 Mar 2024*]{.cvdate}
+
+[**Introduction to Data Science in Python**](https://coursera.org/verify/GLBXEPBTZEA4) <br> *Coursera by University of Michigan* [*April 2020*]{.cvdate}
+
+::: no-print
+## PRESENTATIONS AND WORKSHOPS
+
+-   Workshop: [An Introduction to SEM-PLS using R](/posts/potik-riau/) (24 June 2025, Pojok Statistik)
+-   Talk: [Sharing Session: "Level up your Statistical Essay Writing Skills"](https://www.instagram.com/p/CZyoGdEJ3jl/) (13 Feb 2022, HMPS Statistika FMIPA UNM)
+-   Workshop: [Understanding Visualization Data with R](https://youtu.be/rDYNwmb5_mw?si=UqnZnMM02UVooeEB) (28 June 2021, Webinar Series by FORKAS STIS)
+-   Workshop: [Data Mining for Classification Technique](https://www.youtube.com/watch?v=ljUz9pl3QuE&t=5672s) (20 Oct 2020, KSM Collab #1 by DESCENT STIS)
+:::
+
+::: no-print
+CV Template Adapted from: <br> Huang, Cynthia. 2023. “Publishing HTML and PDF Versions of a Quarto CV Without LaTex.” August 22, 2023. <https://www.cynthiahqy.com/posts/cv-html-pdf/>.
+:::

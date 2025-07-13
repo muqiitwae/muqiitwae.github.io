@@ -75,5 +75,68 @@
     "title": "Muqiit Saputra",
     "section": "",
     "text": "Hello, friends! 👋\nI’m a Statistician with a strong passion for Statistics, Machine Learning, and Geospatial Big Data Analysis. I work at BPS–Statistics Indonesia in Riau Province, where I explore data-driven solutions and develop tools to support evidence-based decision making.\nI’m especially enthusiastic about remote sensing, environmental monitoring, and leveraging open geospatial data for impactful research."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "muqiitsaputra@bps.go.id ∙ Github ∙ LinkedIn ∙ Website"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Curriculum Vitae",
+    "section": "EDUCATION",
+    "text": "EDUCATION\nUndergraduate – Bachelor of Applied Statistics  Politeknik Statistika STIS Oct 2017 — Sept 2021\n\nUndergraduate thesis entitled “Eco-environment Vulnerability Index (EVI) di Provinsi Kalimantan Timur 2017 - 2019 dengan Pendekatan Remote Sensing” [See more]"
+  },
+  {
+    "objectID": "resume.html#work-experience",
+    "href": "resume.html#work-experience",
+    "title": "Curriculum Vitae",
+    "section": "WORK EXPERIENCE",
+    "text": "WORK EXPERIENCE\n\nStatistician\nFull-time, BPS-Statistics of Riau Province Oct 2023 – Present\n\nDesigned and developed internal web-based applications to support HR management and administrative workflows, including workforce data analysis and staffing evaluations at the Provincial Statistics Office.\nAutomated data processing and reporting systems to improve efficiency and accuracy in monitoring civil service performance and compliance with national regulations.\nMentored university students as Statistics Agents, delivering training and guidance to enhance statistical literacy and promote data-driven thinking in academic environments.\n\nFull-time, BPS-Statistics of Dumai Municipality Jan 2022 – Sept 2023\n\nAuthored official statistical publication on Gross Regional Domestic Product of Dumai Municipality by Expenditure 2018 — 2022, including data analysis, interpretation, and localized economic insights [See more].\nDeveloped a web-based archival application for official correspondence using CodeIgniter 4 to streamline document management and retrieval processes.\nFacilitated statistical literacy and data empowerment through technical assistance and mentoring in the “Desa Cinta Statistik” program in Lubuk Gaung Subdistrict, Sungai Sembilan.\nDesigned data-driven infographics and visual content for the Dumai Municipality in Figures 2023 publication [See more]."
+  },
+  {
+    "objectID": "resume.html#presentations-and-workshops",
+    "href": "resume.html#presentations-and-workshops",
+    "title": "Curriculum Vitae",
+    "section": "PRESENTATIONS AND WORKSHOPS",
+    "text": "PRESENTATIONS AND WORKSHOPS\n\nWorkshop: An Introduction to SEM-PLS using R (24 June 2025, Pojok Statistik)\nTalk: Sharing Session: “Level up your Statistical Essay Writing Skills” (13 Feb 2022, HMPS Statistika FMIPA UNM)\nWorkshop: Understanding Visualization Data with R (28 June 2021, Webinar Series by FORKAS STIS)\nWorkshop: Data Mining for Classification Technique (20 Oct 2020, KSM Collab #1 by DESCENT STIS)"
+  },
+  {
+    "objectID": "resume.html#references",
+    "href": "resume.html#references",
+    "title": "Curriculum Vitae",
+    "section": "References",
+    "text": "References"
+  },
+  {
+    "objectID": "resume.html#honors-awards",
+    "href": "resume.html#honors-awards",
+    "title": "Curriculum Vitae",
+    "section": "HONORS & AWARDS",
+    "text": "HONORS & AWARDS\n1st Winner of Statistical Essay Competition  Statistics Festival by Gajah Mada University (UGM) April 2021\nBest Speaker of Scientific Writing Competition  10th Statistics Jamboree Student by Mulawarman University March 2021\nFinalist of Statistical Essay Competition  SATRIA DATA by Ministry of Education and Culture, RI Oct 2020"
+  },
+  {
+    "objectID": "resume.html#leadership-experience",
+    "href": "resume.html#leadership-experience",
+    "title": "Curriculum Vitae",
+    "section": "LEADERSHIP EXPERIENCE",
+    "text": "LEADERSHIP EXPERIENCE\nChief of Knowledge Management Division  Data Science Enthusiast (DESCENT) POLSTAT STIS 2020 — 2021\nHead of Data Analytics Division  Big Data Research Field Study Pratices (PKL) POLSTAT STIS 2019 — 2020"
+  },
+  {
+    "objectID": "resume.html#publications",
+    "href": "resume.html#publications",
+    "title": "Curriculum Vitae",
+    "section": "PUBLICATIONS",
+    "text": "PUBLICATIONS\nGross Regional Domestic Product of Dumai Municipality by Expenditure 2018 — 2022  BPS-Statistics of Dumai Municipality 28 April 2023\nEco-environment Vulnerability Assessment using Remote Sensing Approach in East Kalimantan, Indonesia  Journal of Remote Sensing Applications: Society and Environment August 2022\nImplementation of Ensemble Techniques for Diarrhea Cases Classification of Under-Five Children in Indonesia  Journal of Computer Science and Technology Feb 2021"
+  },
+  {
+    "objectID": "resume.html#courses-in-data-science",
+    "href": "resume.html#courses-in-data-science",
+    "title": "Curriculum Vitae",
+    "section": "COURSES IN DATA SCIENCE",
+    "text": "COURSES IN DATA SCIENCE\nPrinciples of Reproducible Analytical Pipelines for Official Statistics  UN SIAP 17 Feb — 14 Mar 2025\nMachine Learning for Data Scientist (R Programming)  Digital Talent Scholarship by KOMINFO 12 Feb — 30 Mar 2024\nIntroduction to Data Science in Python  Coursera by University of Michigan April 2020"
   }
 ]
